@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Welcome to my repositories page! I'm 2nd year computer science student at Universitas Pembangunan Nasional "Veteran" Jawa Timur. Now, I learning about web development with PHP and JS PL.
+
 <!--
 **thisham/thisham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
