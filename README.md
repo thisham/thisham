@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my repositories page! <br> <br>
+Welcome to my profile page! <br> <br>
 I'm 2nd year computer science student at Universitas Pembangunan Nasional "Veteran" Jawa Timur. Now, I learning about web development with PHP and JS PL.
 
 <!--
