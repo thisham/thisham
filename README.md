@@ -1,12 +1,11 @@
-### Hi there 👋
-
-Welcome to my profile page! <br> <br>
-I'm 2nd year computer science student at Universitas Pembangunan Nasional "Veteran" Jawa Timur. Now, I learning about web development with PHP and (a little bit) JS PL.
-
-### GitHub Stats
+## Hey 👋, This is Hamdan Yuwafi
+[![Gmail Badge](https://img.shields.io/badge/-yuwafi.hamdan365@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:yuwafi.hamdan365@gmail.com)](mailto:yuwafi.hamdan365@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-hamdanyuwafi-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hamdanyuwafi/)](https://www.linkedin.com/in/hamdanyuwafi/) [![Github Badge](https://img.shields.io/badge/-thisham-grey?style=flat&logo=github&logoColor=white&link=https://github.com/thisham/)](https://www.github.com/thisham/) [![Twitter Badge](https://img.shields.io/badge/-thisham_-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/thisham_/)](https://www.twitter.com/thisham_/) <p align='left'>I'm 2nd year computer science student at Universitas Pembangunan Nasional "Veteran" Jawa Timur. Now, I learning about web development with PHP and (a little bit) JS PL.</p>
+## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=thisham alt=thisham /> </p>
 
 <a href="https://github.com/thisham/thisham">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisham&hide=html,css&theme=react" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisham&theme=react&layout=compact" />
 </a>
 <a href="https://github.com/thisham/thisham">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=thisham&show_icons=true&theme=react&line_height=20" />
