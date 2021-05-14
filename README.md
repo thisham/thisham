@@ -1,7 +1,25 @@
-## Hey 👋, This is Hamdan Yuwafi
+## Hey Folks 👋, I'm Hamdan!
 [![Gmail Badge](https://img.shields.io/badge/-yuwafi.hamdan365@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:yuwafi.hamdan365@gmail.com)](mailto:yuwafi.hamdan365@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-hamdanyuwafi-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hamdanyuwafi/)](https://www.linkedin.com/in/hamdanyuwafi/) [![Github Badge](https://img.shields.io/badge/-thisham-grey?style=flat&logo=github&logoColor=white&link=https://github.com/thisham/)](https://www.github.com/thisham/) [![Twitter Badge](https://img.shields.io/badge/-thisham_-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/thisham_/)](https://www.twitter.com/thisham_/) <p align='left'>I'm 2nd year computer science student at Universitas Pembangunan Nasional "Veteran" Jawa Timur. Now, I learning about web development with PHP and (a little bit) JS PL.</p>
+[![Linkedin Badge](https://img.shields.io/badge/-hamdanyuwafi-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hamdanyuwafi/)](https://www.linkedin.com/in/hamdanyuwafi/) [![Github Badge](https://img.shields.io/badge/-thisham-grey?style=flat&logo=github&logoColor=white&link=https://github.com/thisham/)](https://www.github.com/thisham/) [![Twitter Badge](https://img.shields.io/badge/-thisham_-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/thisham_/)](https://www.twitter.com/thisham_/) 
+<p align='left'>I'm 2nd year computer science student at Universitas Pembangunan Nasional "Veteran" Jawa Timur. Now, I focussed on web development.</p>
+
 ## Techs and Tools
+<table>
+  <tr>
+    <th>Tools</th>
+    <td>VSCode | nginX | Apache</td>
+  </tr>
+  <tr>
+    <th>Code</th>
+    <td>PHP | JavaScript | TypeScript</td>
+  </tr>
+  <tr>
+    <th>Techs</th>
+    <td>CodeIgniter x Laravel | ReactJS</td>
+  </tr>
+</table>
+
+<!--
 <p> <img src="https://img.shields.io/badge/Editor-Visual Studio Code-teal?logo=visual-studio-code&style=flat" /> </p>
 <p> <img src="https://img.shields.io/badge/Code-C-teal?logo=c&style=flat" /> <img src="https://img.shields.io/badge/Code-PHP-teal?logo=php&style=flat" /> <img src="https://img.shields.io/badge/Code-JavaScript-teal?logo=javascript&style=flat" /> </p>
 <p> <img src="https://img.shields.io/badge/Tools-GCC-teal?logo=c&style=flat" /> <img src="https://img.shields.io/badge/DB Engine-MySQL-teal?logo=mysql&style=flat" /> </p>
@@ -15,6 +33,7 @@
 <a href="https://github.com/thisham/thisham">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=thisham&show_icons=true&theme=react&line_height=20" />
 </a> 
+-->
 
 <!--
 **thisham/thisham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
