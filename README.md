@@ -1,7 +1,11 @@
 ## Hey Folks 👋, I'm Hamdan!
-[![Gmail Badge](https://img.shields.io/badge/-yuwafi.hamdan365@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:yuwafi.hamdan365@gmail.com)](mailto:yuwafi.hamdan365@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-hamdanyuwafi-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hamdanyuwafi/)](https://www.linkedin.com/in/hamdanyuwafi/) [![Github Badge](https://img.shields.io/badge/-thisham-grey?style=flat&logo=github&logoColor=white&link=https://github.com/thisham/)](https://www.github.com/thisham/) [![Twitter Badge](https://img.shields.io/badge/-thisham_-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/thisham_/)](https://www.twitter.com/thisham_/) 
+
 <p align='left'>I'm 2nd year computer science student at Universitas Pembangunan Nasional "Veteran" Jawa Timur. Now, I focussed on web development.</p>
+
+📫 **Reach me up at**
+
+[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:yuwafi.hamdan365@gmail.com)](mailto:yuwafi.hamdan365@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hamdanyuwafi/)](https://www.linkedin.com/in/hamdanyuwafi/) [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/thisham_/)](https://www.twitter.com/thisham_/) 
 
 ## Techs and Tools
 <table>
@@ -15,9 +19,10 @@
   </tr>
   <tr>
     <th>Techs</th>
-    <td>CodeIgniter x Laravel | ReactJS</td>
+    <td>CodeIgniter | Laravel | AdonisJS | ReactJS</td>
   </tr>
 </table>
+
 
 <!--
 <p> <img src="https://img.shields.io/badge/Editor-Visual Studio Code-teal?logo=visual-studio-code&style=flat" /> </p>
