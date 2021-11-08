@@ -1,6 +1,6 @@
 ## Hey Folks 👋, I'm Hamdan!
 
-<p align='left'>I'm 2nd year computer science student at Universitas Pembangunan Nasional "Veteran" Jawa Timur. Now, I focussed on web development.</p>
+<p align='left'>I'm 3rd year computer science student at Universitas Pembangunan Nasional "Veteran" Jawa Timur. Now, I focussed on web development.</p>
 
 📫 **Reach me up at**
 
