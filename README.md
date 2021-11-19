@@ -1,28 +1,17 @@
 ## Hey Folks 👋, I'm Hamdan!
 
-<p align='left'>I'm 3rd year computer science student at Universitas Pembangunan Nasional "Veteran" Jawa Timur. Now, I focussed on web development.</p>
+<p>3rd year Computer Science student at Universitas Pembangunan Nasional "Veteran" Jawa Timur. </p>
+<p>A Frontend Engineer who have interests on Backend.</p>
 
-📫 **Reach me up at**
+**(wrench-emoticon)**
+React Native, TypeScript and iOS stuff;
+Still using PHP; and
+Learns dart, swift, go and anything that I interested in.
+
+📫 **Reach me up**
 
 [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:yuwafi.hamdan365@gmail.com)](mailto:yuwafi.hamdan365@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hamdanyuwafi/)](https://www.linkedin.com/in/hamdanyuwafi/) [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/thisham_/)](https://www.twitter.com/thisham_/) 
-
-## Techs and Tools
-<table>
-  <tr>
-    <th>Tools</th>
-    <td>VSCode | nginX | Apache</td>
-  </tr>
-  <tr>
-    <th>Code</th>
-    <td>PHP | JavaScript | TypeScript</td>
-  </tr>
-  <tr>
-    <th>Techs</th>
-    <td>CodeIgniter | Laravel | AdonisJS | ReactJS</td>
-  </tr>
-</table>
-
 
 <!--
 <p> <img src="https://img.shields.io/badge/Editor-Visual Studio Code-teal?logo=visual-studio-code&style=flat" /> </p>
