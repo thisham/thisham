@@ -1,18 +1,20 @@
 ## Hey Folks 👋, I'm Hamdan!
 
-3rd year Computer Science student at Universitas Pembangunan Nasional "Veteran" Jawa Timur.<br />
+3rd year Computer Science student at [Universitas Pembangunan Nasional "Veteran" Jawa Timur](https://upnjatim.ac.id).<br />
 A Frontend Engineer who have interests on Backend.<br />
 
 
-**(wrench-emoticon)**<br />
+🛠️ **My Wrenches and Hammers**<br />
 React Native, TypeScript and iOS stuff;<br />
 Still using PHP; and<br />
 Learns dart, swift, go and anything that I interested in.
 
 
-📫 **Reach me up**<br />
+📫 **Reach me up**
+
 [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:yuwafi.hamdan365@gmail.com)](mailto:yuwafi.hamdan365@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hamdanyuwafi/)](https://www.linkedin.com/in/hamdanyuwafi/) [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/thisham_/)](https://www.twitter.com/thisham_/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hamdanyuwafi/)](https://www.linkedin.com/in/hamdanyuwafi/) 
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/thisham_/)](https://www.twitter.com/thisham_/) 
 
 <!--
 <p> <img src="https://img.shields.io/badge/Editor-Visual Studio Code-teal?logo=visual-studio-code&style=flat" /> </p>
