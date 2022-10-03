@@ -5,9 +5,9 @@ A Frontend Engineer who have interests on Backend.<br />
 
 
 🛠️ **My Wrenches and Hammers**<br />
-React Native, TypeScript and iOS stuff;<br />
-Still using PHP; and<br />
-Learns dart, swift, go and anything that I interested in.
+TypeScript, Golang;  
+Still using PHP; and  
+Learns dart, swift and anything that I interested in.
 
 
 📫 **Reach me up**
