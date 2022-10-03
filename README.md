@@ -1,6 +1,6 @@
 ## Hey Folks 👋, I'm Hamdan!
 
-3rd year Computer Science student at [Universitas Pembangunan Nasional "Veteran" Jawa Timur](https://upnjatim.ac.id).<br />
+Final year Computer Science student at [Universitas Pembangunan Nasional "Veteran" Jawa Timur](https://upnjatim.ac.id).<br />
 A Frontend Engineer who have interests on Backend.<br />
 
 
